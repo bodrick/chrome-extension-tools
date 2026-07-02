@@ -54,7 +54,7 @@
     "json-ptr": "^3.0.0",
     "jsonpath-plus": "^4.0.0",
     "localforage": "^1.9.0",
-    "lodash": "^4.17.21",
+    "lodash": "^4.17.23",
     "mem": "^6.0.1",
     "playwright-chromium": "1.33.0",
     "rollup": "^2.72.1",
