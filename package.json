@@ -18,7 +18,7 @@
     "test": "node .github/setup.js"
   },
   "dependencies": {
-    "@changesets/cli": "^2.22.0",
+    "@changesets/cli": "^2.29.6",
     "@typescript-eslint/eslint-plugin": "^5.20.0",
     "@typescript-eslint/parser": "^5.20.0",
     "eslint": "8.43.0",
